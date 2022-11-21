@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+padding: 0;
+}
+header,
+footer {
+    width: 100%;
+    height: 120px;
+    background-color: #DDD6ED;
+    color: #7A0755;
+}
+h1,
+h2 {
+    text-align: center;
+}
