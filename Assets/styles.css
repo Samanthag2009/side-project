@@ -8,6 +8,7 @@ footer {
     height: 120px;
     background-color: #DDD6ED;
     color: #7A0755;
+    border: 1px solid black;
 }
 h1,
 h2 {
