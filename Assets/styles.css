@@ -14,3 +14,14 @@ h1,
 h2 {
     text-align: center;
 }
+ul {
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+.box {
+    width: 80%;
+    margin: 40px auto;
+border: 5px solid black;
+box-shadow: 5px solid gray;
+}
